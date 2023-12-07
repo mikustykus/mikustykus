@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikustykus
-- 👀 I’m interested in C#, Net5.0, Blazor, Blockchain
+- 👀 I’m interested in C#, Net8.0, Blazor, Blockchain
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Blockchain
 
