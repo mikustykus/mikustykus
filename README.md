@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikustykus
 - 👀 I’m interested in C#, Net8.0, Blazor, Blockchain
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain
+
 
 <!---
 mikustykus/mikustykus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
